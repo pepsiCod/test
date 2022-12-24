@@ -1,0 +1,1 @@
+After adding dish to menu, you have to put recipe to RECIPES folder
